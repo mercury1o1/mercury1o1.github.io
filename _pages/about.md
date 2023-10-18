@@ -21,8 +21,8 @@ social: true  # includes social icons at the bottom of the page
 
 I am currently pursuing a Master's degree in International Communication at Nanjing University. And have a Bachelor's degree in Journalism from Shaanxi Normal University. 
 
-Interests in history, astronomy, games, novels .etc
-Rank A in cs2 in 5e;Anime expert(?) (others said,I don't admit that);
+<p>Interests in history, astronomy, games, novels .etc<p>
+<p>Rank A in cs2 in 5e;Anime expert(?) (others said,I don't admit that);<p>
 
-Wechat number: no data 
-Sina Weibo: 404 not found
+<p>Wechat number: no data<p> 
+<p>Sina Weibo: 404 not found<p>
