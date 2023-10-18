@@ -10,8 +10,9 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>no office number</p>
-    <p>Urauns,galaxy</p>
-    <p>Nanjing, CHINA</p>
+    <p>Urauns</p>
+    <p>Nanjing, China</p>
+
 
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
