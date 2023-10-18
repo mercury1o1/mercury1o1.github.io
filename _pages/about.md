@@ -22,4 +22,4 @@ I am currently pursuing a Master's degree in International Communication at Nanj
 
 Interests in history, astronomy, games, novels .etc; Rank A in cs2 in 5e;Anime expert(?) (others said,I don't admit that);
 
-Wechat number: no data; Sina Weibo: 404 not found
+Wechat number: no data; Sina Weibo: 404 not found; WeChat official account:
