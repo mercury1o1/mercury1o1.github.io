@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://mercury1o1.github.io/mercury1o1/sitemap.xml
+Sitemap: https://mercury1o1.github.io/sitemap.xml
