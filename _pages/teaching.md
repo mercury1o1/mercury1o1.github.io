@@ -1,12 +1,12 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+title: Academic Research
+description: 好想死...在学术的海洋里面啊！(How to swimming in the ocean of knowledge)
 nav: true
 nav_order: 5
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+很幸运，现在还在岸上(For now,luckily)
 
-Organize your courses by years, topics, or universities, however you like!
+no data 没有学术成果
