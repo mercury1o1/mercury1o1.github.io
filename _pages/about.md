@@ -9,9 +9,6 @@ profile:
   image: IMG_2694(0).PNG
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p> no office number </p>
-    
-    <p> Urauns </p>
     <p> Nanjing, China </p>
 
 
