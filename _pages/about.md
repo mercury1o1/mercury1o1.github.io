@@ -10,6 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p> no office number </p>
+    
     <p> Urauns </p>
     <p> Nanjing, China </p>
 
@@ -22,6 +23,6 @@ social: true  # includes social icons at the bottom of the page
 
 I am currently pursuing a Master's degree in International Communication at Nanjing University. And have a Bachelor's degree in Journalism from Shaanxi Normal University. 
 
-</p>Interests in history, astronomy, games, novels .etc;</p>Rank A in cs2 in 5e;Anime expert(?) (others said,I don't admit that);
+Interests in history, astronomy, games, novels .etc; Rank A in cs2 in 5e;Anime expert(?) (others said,I don't admit that);
 
-Wechat number: no data;Sina Weibo: 404 not found
+Wechat number: no data; Sina Weibo: 404 not found
