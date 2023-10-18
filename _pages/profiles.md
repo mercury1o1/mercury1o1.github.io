@@ -1,8 +1,8 @@
 ---
 layout: profiles
 permalink: /people/
-title: people
-description: members of the lab or group
+title: Relationships
+description: social relationships(The impoverished social relationships of infp；infp贫瘠的社会关系)
 nav: true
 nav_order: 6
 
