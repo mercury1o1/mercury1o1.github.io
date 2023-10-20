@@ -20,6 +20,6 @@ social: true  # includes social icons at the bottom of the page
 
 I am currently pursuing a Master's degree in International Communication at Nanjing University. And have a Bachelor's degree in Journalism from Shaanxi Normal University. 
 
-Interests in history, astronomy, games, novels .etc; Rank A in cs2 in 5e;Anime expert(?) (others said,I don't admit that);
+Interests in history, astronomy, games, novels .etc; Rank A in cs2 in 5e;Anime expert(?) (others said,I don't admit that);<--don't konw what should be written here.sad.
 
 Wechat number: no data; Sina Weibo: 404 not found; WeChat official account:
